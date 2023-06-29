@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/addFragment2"
+    android:title="Breakings News"
+    android:icon="@drawable/ic_add"/>
+    <item android:id="@+id/listFragment"
+        android:title="Saved News"
+        android:icon="@drawable/ic_add"/>
+    <item android:id="@+id/editFragment"
+        android:title="All Breakings News"
+        android:icon="@drawable/ic_add"/>
+</menu>
